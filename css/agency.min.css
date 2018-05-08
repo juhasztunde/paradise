@@ -329,7 +329,7 @@ header.masthead .intro-text .intro-heading{
     bottom:0;
     left:40px;
     width:2px;
-    margin-left:-1.5px;
+    margin-left:10.5px;
     content:'';
     background-color:#e9ecef
 }
