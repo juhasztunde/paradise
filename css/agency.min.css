@@ -137,7 +137,7 @@ header.masthead{
     text-align:center;
     color:#fff;
     text-shadow: 1px 1px black;
-    background-image:url(../img/header-bg2.png);
+    background-image:url(../img/header.png);
     background-repeat:no-repeat;
     background-attachment:scroll;
     background-position:center center;
@@ -590,7 +590,7 @@ ul.social-buttons li a{
     color:#fff;
     border-radius:100%;
     outline:0;
-    background-color:#212529
+    background-color:#000
 }
 ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li a:hover{
     background-color:#fe36b7
@@ -598,4 +598,18 @@ ul.social-buttons li a:active,ul.social-buttons li a:focus,ul.social-buttons li 
 
  #justify {
     text-align: justify
+}
+
+.banner1 {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/banner1.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.banner2 {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/banner2.jpg) no-repeat center center;
+    background-size: cover;
 }
